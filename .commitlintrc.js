@@ -5,7 +5,6 @@ const path = require('path');
 /**
  *  @param {string[]} packages
  *  @param {string[]} apps
- *  @param {string[]} design
  */
 const packages = fs.readdirSync(path.resolve(__dirname, 'packages'));
 const apps = fs.readdirSync(path.resolve(__dirname, 'apps'));
