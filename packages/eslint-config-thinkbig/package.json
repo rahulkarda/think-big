@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-thinkbig",
+  "name": "@100devs-adhd/eslint-config-thinkbig",
   "version": "0.0.0",
   "main": "index.js",
   "license": "ISC",
