@@ -10,10 +10,10 @@
     "*.{js,jsx}": "eslint *.{js,jsx}"
   },
   "devDependencies": {
+    "@100devs-adhd/eslint-config-thinkbig": "workspace:*",
     "@types/react": "^18.0.11",
     "@types/react-dom": "^18.0.5",
     "eslint": "^8.17.0",
-    "@100devs-adhd/eslint-config-thinkbig": "workspace:*",
     "react": "^18.1.0"
   },
   "keywords": [],
