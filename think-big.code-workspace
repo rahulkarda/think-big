@@ -36,7 +36,8 @@
 			"oouo-diogo-perdigao.docthis",
 			"ms-vsliveshare.vsliveshare",
 			"bengreenier.vscode-node-readme",
-			"christian-kohler.npm-intellisense"
+			"christian-kohler.npm-intellisense",
+			"Jacano.vscode-pnpm"
 		]
 	}
 }
