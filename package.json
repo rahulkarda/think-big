@@ -29,5 +29,9 @@
     "lint-staged": "^13.0.0",
     "prettier": "latest",
     "turbo": "latest"
+  },
+  "engines": {
+    "node": ">=18",
+    "pnpm": ">=7.1.9"
   }
 }
