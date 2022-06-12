@@ -20,7 +20,7 @@
 <div align="center">
 <br />
 
-[![Project license](https://img.shields.io/github/license/100Devs-ADHD/think-big.svg?style=flat-square)](LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 [![Pull Requests welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/100Devs-ADHD/think-big/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 [![code with love by 100Devs-ADHD](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-100DevsADHD-ff1414.svg?style=flat-square)](https://github.com/100Devs-ADHD)
