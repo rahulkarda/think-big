@@ -1,0 +1,43 @@
+{
+	"folders": [
+		{
+			"name": "✨ @100devs-adhd/think-big",
+			"path": "."
+		},
+		{
+			"name": "🚀 @100devs-adhd/frontend",
+			"path": "apps/frontend"
+		},
+		{
+			"name": "📦 @100devs-adhd/eslint-config-thinkbig",
+			"path": "packages/eslint-config-thinkbig"
+		},
+		{
+			"name": "📦 @100devs-adhd/ui",
+			"path": "packages/ui"
+		}
+	],
+	"settings": {
+		"editor.formatOnPaste": true,
+		"editor.formatOnSave": true,
+		"jest.coverageFormatter": "DefaultFormatter",
+		"docthis.includeAuthorTag": true,
+		"docthis.includeDateTag": true,
+		"docthis.includeDescriptionTag": true,
+		"docthis.inferTypesFromNames": true,
+		"git.autofetch": true,
+		"prettier.singleQuote": true,
+		"prettier.jsxSingleQuote": true
+	},
+	"extensions": {
+		"recommendations": [
+			"mgmcdermott.vscode-language-babel",
+			"orta.vscode-jest",
+			"oouo-diogo-perdigao.docthis",
+			"ms-vsliveshare.vsliveshare",
+			"bengreenier.vscode-node-readme",
+			"christian-kohler.npm-intellisense",
+			"Jacano.vscode-pnpm"
+		]
+	}
+}
